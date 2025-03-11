@@ -1,47 +1,43 @@
-# Interactive-Portfolio
 
-[![GitHub](https://img.shields.io/github/license/SupriyaSahoo15/Interactive-Portfolio?color=green)](https://img.shields.io/github/license/SupriyaSahoo15/Interactive-Portfolio)
 
-## A Resposive and attractive portfolio for Developers 🔥
+# 🌟 Supriya Sahoo - Portfolio  
+![image](https://github.com/user-attachments/assets/22f18d0e-cb71-4cf6-9537-b1de55cf098a)
 
-A clean, beautiful and responsive portfolio templete with using only HTML and css.
-Later on add some javascript for animation and designing.
-visit the website [here.](https://SupriyaSahoo15.github.io/Interactive-Portfolio/)
 
-![ezgif com-optimize](https://user-images.githubusercontent.com/53833570/87217363-f9e6ff00-c365-11ea-9e1a-4d017964f2b4.gif)
+Welcome to my portfolio! 🚀 This website showcases my skills, projects, and experiences in **Data Analytics, Machine Learning, and Web Development**.  
 
-## Sections:
+## 📌 About Me  
+I'm a passionate developer with a strong interest in **Data Science, Web Development, and Problem-Solving**. I enjoy working on innovative solutions that create a meaningful impact.  
 
-💥 About me\
-💥 Education\
-💥 Cretification\
-💥 Skills\
-💥 Projects\
-💥 Contact me
+## 🎯 What I Do  
+- **📊 Data Analytics & Machine Learning**  
+  - Experience with **Python, NumPy, Pandas, Matplotlib, Seaborn**  
+  - Developing models to clean, transform, and analyze raw data  
+  - Building predictive models using **Machine Learning** techniques  
 
-## Technology used:
+- **🌐 Web Development**  
+  - Proficient in **HTML, CSS, Bootstrap, JavaScript, React, Node.js**  
+  - Designing responsive and user-friendly websites  
+  - UI/UX experience with **Figma, Adobe Photoshop, Illustrator**  
 
-- HTML
-- CSS
+- **⚡ Data Structures & Algorithms**  
+  - Strong problem-solving skills with **C++, Python**  
+  - Competitive programming on **Codeforces, CodeChef, Hackerrank**  
 
-## Illustration and Images
+## 🛠️ Tech Stack  
+**Languages:** Python, C++, JavaScript  
+**Frameworks & Libraries:** Bootstrap, React.js, Node.js  
+**Tools:** Git, GitHub, VS Code, Figma  
 
-- [Undraw](https://undraw.co/)
-- [Hackerblock](https://hack.codingblocks.com/)
+## 🚀 Live Portfolio  
+🔗 [View My Portfolio](#) *(Add your hosted portfolio link here)*  
 
-## For the Future
-If you can help us with these. Please don't hesitate to open a pull request.
+## 📬 Connect with Me  
+- 📧 Email: [supriyasahoo1503@gmail.com](mailto:supriyasahoo1503@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/Supriya-Sahoo-70b9b0196/)  
+- 💻 [GitHub](https://github.com/SupriyaSahoo15)  
+- 📷 [Instagram](https://www.instagram.com/Supriya.Sahoo_/)  
 
-- Add a page loader
-- Add some Animation
-- Add some more Section
+---
 
-## Updates
-
-- Added Dark Mode
-
-  ![Dark Mode](https://github.com/SupriyaSahoo15/Interactive-Portfolio/blob/master/Image/dark-mode-update.gif) - [PR](https://github.com/SupriyaSahoo15/Interactive-Portfolio/pull/18) 26/08/2024
-
-## Reference
-
-Some Design idea are taken from [Ashutosh Hathidara](https://github.com/ashutosh1919/masterPortfolio)
+Made with ❤️ by **Supriya Sahoo**  
